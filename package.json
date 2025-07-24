@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc && nodemon --exec ts node server.ts",
+    "dev": "tsc && nodemon --exec ts node test.ts",
     "start": "node server.js"
   },
   "keywords": [],
